@@ -64,26 +64,7 @@
 
 <hr>
 
-<h3 align="left">📊 Thống kê GitHub:</h3>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=[USERNAME]&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" 
-    alt="Thống kê GitHub của [USERNAME]" 
-    height="192px"
-  />
-  <br><br>
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=[USERNAME]&layout=compact&locale=en&theme=tokyonight&hide_border=true" 
-    alt="Ngôn ngữ hàng đầu của [USERNAME]"
-    height="192px"
-  />
-  <br><br>
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=[USERNAME]&theme=tokyonight&hide_border=true" 
-    alt="Chuỗi ngày đóng góp của [USERNAME]"
-  />
-</p>
 
 <hr>
 
