@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[LINK_ANH_BANNER_CUA_BAN]" alt="Banner Chào mừng" width="100%"/>
+  <img src="https://drive.google.com/file/d/1DFts0hjNWVSanOl5nPEx5UCdpVeEscdl/view?usp=drive_link" alt="Banner Chào mừng" width="100%"/>
 </p>
 
 <h1 align="center">
